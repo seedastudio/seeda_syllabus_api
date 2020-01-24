@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  metric: MyString
+  syllabus_id: 1
+
+two:
+  metric: MyString
+  syllabus_id: 1

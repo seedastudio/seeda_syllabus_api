@@ -1,0 +1,2 @@
+class AcctMeasuresController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class AcctPartnersController < ApplicationController
+end

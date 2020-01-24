@@ -1,0 +1,2 @@
+class ConcentrationKeywordsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class AcctMetricsController < ApplicationController
+end
